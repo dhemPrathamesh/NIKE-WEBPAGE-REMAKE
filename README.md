@@ -1,0 +1,1 @@
+This project involves a comprehensive remake of a Nike website, utilizing HTML and CSS for the design and structure. Additionally, I have included specific product details within the site to enhance user experience and provide valuable information.
